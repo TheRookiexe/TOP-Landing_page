@@ -82,3 +82,63 @@ a{
 .placeholder_text1 {
     margin-top: 90px;
 }
+
+.body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bolder;    
+}
+
+.content {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    margin-top: 40px;
+}
+
+#one {
+    width: 160px;
+    height: 160px;
+    border: 3px solid blue;
+    border-radius: 14px;
+}
+#t1 {
+    text-align: center;
+}
+
+#two {
+    width: 160px;
+    height: 160px;
+    border: 3px solid blue;
+    border-radius: 14px;
+}
+#t2 {
+    text-align: center;
+}
+
+#three {
+    width: 160px;
+    height: 160px;
+    border: 3px solid blue;
+    border-radius: 14px;
+}
+#t3 {
+    text-align: center;
+}
+
+#four {
+    width: 160px;
+    height: 160px;
+    border: 3px solid blue;
+    border-radius: 14px;
+}
+#t4 {
+    text-align: center;
+}
